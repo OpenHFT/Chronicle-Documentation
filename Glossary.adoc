@@ -10,10 +10,9 @@ Katharine Murphy
 toc::[]
 
 
-[%autowidth, cols="<.<,<.<", options="header"]
+[cols=2*,options="header"]
 |===
-|Term |Description
-
+| Term | Description
 //|[[consumer]]Consumer
 //|...
 
@@ -31,5 +30,4 @@ toc::[]
 
 |[[trade]]Trade
 |A trade is a purchase by a buyer of an asset from a seller. A trade usually details the type of asset, the amount of the asset, and the price.
-
 |===
