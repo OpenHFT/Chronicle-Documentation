@@ -1,0 +1,35 @@
+= Glossary
+Katharine Murphy
+
+:toc: macro
+:toclevels: 4
+:css-signature: demo
+:toc-placement: macro
+:toc-title:
+
+toc::[]
+
+
+[cols="1,3"]
+|===
+|Term |Description
+
+//|[[consumer]]Consumer
+//|...
+
+|[[position]]Position
+|A position is the amount of a particular security, commodity, or currency a person or entity owns.
+
+//|[[producer]]Producer
+//|...
+
+//|[[publisher]]Publisher
+//|...
+
+//|[[subscriber]]Subscriber
+//|...
+
+|[[trade]]Trade
+|A trade is a purchase by a buyer of an asset from a seller. A trade usually details the type of asset, the amount of the asset, and the price.
+
+|===

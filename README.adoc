@@ -1,0 +1,22 @@
+= Chronicle Documentation
+Katharine Murphy
+
+:toc: macro
+:toclevels: 4
+:css-signature: demo
+:toc-placement: macro
+:toc-title:
+
+toc::[]
+
+== Overview
+
+This repo contains platform-wide, open source documentation from the Chronicle Software team.
+
+WARNING: This repo is under construction.
+
+== Glossary
+
+Click to view the link:./Glossary.adoc[Chronicle Glossary].
+
+
