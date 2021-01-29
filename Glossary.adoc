@@ -13,20 +13,15 @@ toc::[]
 [cols=2*,options="header"]
 |===
 | Term | Description
-//|[[consumer]]Consumer
-//|...
+
+|[[market-data-adapter]]Market data adapter
+|A market data adapter receives market data from a number of exchanges and standardises its format for output.
+
+|[[marshalling]]Marshalling
+|Marshalling is the Chronicle framework serialization function. Designed to work with Chronicle types, products, and services, it offers enhanced performance over regular Java serialization techniques.
 
 |[[position]]Position
-|A position is the amount of a particular security, commodity, or currency a person or entity owns.
-
-//|[[producer]]Producer
-//|...
-
-//|[[publisher]]Publisher
-//|...
-
-//|[[subscriber]]Subscriber
-//|...
+|A position is the amount of a security, commodity, or currency (asset) a person or entity owns.
 
 |[[trade]]Trade
 |A trade is a purchase by a buyer of an asset from a seller. A trade usually details the type of asset, the amount of the asset, and the price.

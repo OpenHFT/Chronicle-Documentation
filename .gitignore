@@ -59,6 +59,7 @@ local.properties
 
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+.idea/
 .idea/*.xml
 .idea/inspectionProfiles
 .idea/libraries
